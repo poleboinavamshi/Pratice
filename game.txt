@@ -1,3 +1,6 @@
 Game 
 design 
 motor 
+speed 
+control 
+condition
