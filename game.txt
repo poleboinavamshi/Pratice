@@ -4,3 +4,5 @@ motor
 speed 
 control 
 condition
+device
+deply
